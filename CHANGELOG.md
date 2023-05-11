@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.0.0
+
+### Major Changes
+
+- First major
+
 ## 1.4.4
 
 ### Patch Changes

@@ -1,4 +1,4 @@
-name: Changesets
+name: SchipholChangesets
 description: A GitHub action to automate releases with Changesets
 runs:
   using: "node16"
